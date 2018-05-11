@@ -1,0 +1,4 @@
+InvoiceNumber;InvoiceLineNumber;InvoiceDate;DueDate;TotalAmount;CustomerName;InvoiceLineAddressStreet;InvoiceLineAddressZipCode;InvoiceLineAddressCity;InvoiceLineChargedWeight;Currency;Amount;
+2345;0001;2017-11-14;2017-11-15;285,99;Anders Andersson;Baner Rd;411045;Pune;4,55;INR;99,00;
+2345;0002;2017-11-14;2017-11-15;285,99;Anders Andersson;Baner Rd;411045;Pune;1,68;INR;143,00;
+2345;0003;2017-11-14;2017-11-15;285,99;Anders Andersson;Baner Rd;411045;Pune;0,78;INR;43,99;

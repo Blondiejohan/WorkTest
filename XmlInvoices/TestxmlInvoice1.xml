@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<invoices>
+  <invoice InvoiceNumber="1234" InvoiceLineNumber="0001" InvoiceDate="2018-01-01" DueDate="2018-01-05" TotalAmount="141,09" CustomerName="Daniel Johansson" InvoiceLineAddressStreet="Vevgatan 6" InvoiceLineAddressZipCode="504 64" InvoiceLineAddressCity="Borås" InvoiceLineChargedWeight="0,34" Currency="SEK" Amount="100,99" />
+  <invoice InvoiceNumber="1234" InvoiceLineNumber="0002" InvoiceDate="2018-01-01" DueDate="2018-01-05" TotalAmount="141,09" CustomerName="Daniel Johansson" InvoiceLineAddressStreet="Vevgatan 6" InvoiceLineAddressZipCode="504 64" InvoiceLineAddressCity="Borås" InvoiceLineChargedWeight="1,68" Currency="SEK" Amount="12,44" />
+  <invoice InvoiceNumber="1234" InvoiceLineNumber="0003" InvoiceDate="2018-01-01" DueDate="2018-01-05" TotalAmount="141,09" CustomerName="Daniel Johansson" InvoiceLineAddressStreet="Vevgatan 6" InvoiceLineAddressZipCode="504 64" InvoiceLineAddressCity="Borås" InvoiceLineChargedWeight="0,78" Currency="SEK" Amount="27,66" />
+</invoices>

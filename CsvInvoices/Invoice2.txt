@@ -1,0 +1,4 @@
+InvoiceNumber;InvoiceLineNumber;InvoiceDate;DueDate;TotalAmount;CustomerName;InvoiceLineAddressStreet;InvoiceLineAddressZipCode;InvoiceLineAddressCity;InvoiceLineChargedWeight;Currency;Amount;
+4321;0001;2017-07-21;2017-07-28;447,00;Per Persson;Street 1;44 444;Boston;0,34;USD;100,00;
+4321;0002;2017-07-21;2017-07-28;447,00;Per Persson;Street 1;44 444;Boston;1,68;USD;120,00;
+4321;0003;2017-07-21;2017-07-28;447,00;Per Persson;Street 1;44 444;Boston;0,78;USD;227,00;
